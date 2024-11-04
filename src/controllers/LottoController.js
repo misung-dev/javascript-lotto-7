@@ -30,6 +30,9 @@ class LottoController {
 
     LottoView.printLottoNumbers(this.lottoList);
     LottoView.printNewLine();
+
+    LottoView.printLottoNumbers(this.lottoList);
+    LottoView.printNewLine();
   }
 }
 
